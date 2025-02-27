@@ -88,7 +88,7 @@ How can GenAI-powered chatbots enhance mental health support through conversatio
 * Implementing real-time monitoring and escalation mechanisms for critical mental health cases.
 * Assessing the long-term impact of AI-driven mental health chatbots on users' well-being.
 
-## Make Ca
+## Make Case
 
 I believe my assignment deserves to be graded 9.5 or 10 because I completed the entire assignment alone, while other individuals completed it in groups. This meant that I had to conduct all the research, debugging, and implementation alone without external assistance. I also went above the bare minimum by employing a number of prompt engineering techniques and proposing different levels of automation to improve model responses. I also created a well-planned and easy-to-execute plan for the assignment. My submission reflects not just completion but a higher level of understanding and application of the concepts. Key reasons for a 9.5 or 10 grade:
 
